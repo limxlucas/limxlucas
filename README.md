@@ -2,7 +2,7 @@
 
 - 📚 Estou estudando no momento: Java, MySQL e Spring
 - 🤖 Interessado atualmente em participar de projetos para back-end
-- 📫 Como entrar em contato comigo: linktr.ee/limxlucas
+- 📫 Como entrar em contato comigo: https://linktr.ee/limxlucas
 - 😄 Pronomes: Ele / dele (He / him / his)
 
 <div align="center">
